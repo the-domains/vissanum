@@ -1,0 +1,14 @@
+layout_spectrum: 0.8988500256091356
+typography_spectrum: 0.4710727552883327
+color:
+  brandStrength: 0.6274173646233976
+  lightness: 0.3479166296310723
+  saturation: 0.09176802914589643
+  rhythmicContrast: 0.6431471228133887
+  brandColors:
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+name: vissanum
